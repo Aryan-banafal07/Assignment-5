@@ -93,3 +93,16 @@ Perform hyperparameter tuning
 Add cross-validation RMSE
 
 Experiment with feature selection techniques
+
+
+
+![image](https://github.com/user-attachments/assets/7ce0217a-a40a-446f-9f8b-a368f7e6a777)
+
+![image](https://github.com/user-attachments/assets/cad7f0a1-40b9-4fd3-a82b-7f151a6722da)
+
+![image](https://github.com/user-attachments/assets/9ca6e497-aac0-4ba6-99d1-353d950549b0)
+
+![image](https://github.com/user-attachments/assets/9bfe9e2e-8639-4780-9700-5260dc2cd315)
+
+
+
